@@ -10,7 +10,7 @@ Employment: Department of Physics at the University of Texas at Arlington
 Position: Undergraduate Research Assistant  
   
 <img src="./Images/Programs.Logo/LinkedIN.png" width="2%"> Linked in Account :    
-<img src="./Images/Other/LinkedIn.QR.png" width="25%">  
+<img src="./Images/Other/QR.jpg" width="25%">  
   
 ### ::: Labor and Skills :::  
 
@@ -27,7 +27,7 @@ Position: Undergraduate Research Assistant
 
 3. **Digital Program Skills**  
 <img src="./Images/Programs.Logo/KiCAD.png" width="5%"> KiCAD  
-<img src=".Images/Programs.Logo/Fusion360.png" width="5%"> Autodesk Fusion360  
+<img src="/.Images/Programs.Logo/Fusion.png" width="5%"> Autodesk Fusion360  
 <img src="./Images/Programs.Logo/MS.png" width="2%">  Word, Excel, and Powerpoint  
   
 **Other Skills**  
