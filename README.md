@@ -1,13 +1,10 @@
-# Alfredo Barajas Enriquez  
-  
-----------
-## About Me  
-  
+Alfredo Barajas Enriquez
 ----------
 ### ::: Basic Information :::  
-Education: Senior at **[UTA](https://www.uta.edu/)** for Bachelors' Degree in Physics with a Minor in Mathematics  
-Employment: Department of Physics at the University of Texas at Arlington  
-Position: Undergraduate Research Assistant  
+**Education:** ::: Senior at **[UTA](https://www.uta.edu/)** for Bachelors' Degree in Physics with a Minor in Mathematics  
+**Employment:** ::: Department of Physics at the University of Texas at Arlington  
+**Position:** ::: Undergraduate Research Assistant  
+**Advisor:** ::: **[Jonathan Asaadi](https://www.jonathanasaadi.com/)**
   
 <img src="./Images/Programs.Logo/LinkedIN.png" width="2%"> Linked in QR Code  
 <img src="./Images/Other/QR.png" width="20%">  
