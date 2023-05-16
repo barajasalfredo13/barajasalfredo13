@@ -10,7 +10,7 @@ Employment: Department of Physics at the University of Texas at Arlington
 Position: Undergraduate Research Assistant  
   
 <img src="./Images/Programs.Logo/LinkedIN.png" width="5%"> Linked in Account :    
-<img src="./Images/Other/LinkedIN.QR.png" width="25%">  
+<img src="./Images/Other/LinkedIn.QR.png" width="25%">  
   
 ### ::: Labor and Skills :::  
 
@@ -28,10 +28,11 @@ Position: Undergraduate Research Assistant
 3. **Digital Program Skills**  
 <img src="./Images/Programs.Logo/KiCAD.png" width="5%"> KiCAD  
 <img src=".Images/Programs.Logo/Fusion360.png" width="5%"> Autodesk Fusion360  
-<img src="./Images/Programs.Logo/MS.png" width="5%">  Word, Excel, and Powerpoint  
+<img src="./Images/Programs.Logo/MS.png" width="2%">  Word, Excel, and Powerpoint  
   
 **Other Skills**  
-Organization
+Organization  
+  
 ## A little more about me and my thoughts
 👋 Hello! I am currently studying for a **Bachelors' Degree in Physics with a Minor in Mathematics** Instruments in fields have always been an eye catcher to me, working in any field that allows me to create tools that can facilitate production, efficiency, or any tasks is something that I constantly think on. 
 - Is what I am doing the most efficient (?)  
