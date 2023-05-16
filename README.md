@@ -5,12 +5,12 @@
   
 ----------
 ### ::: Basic Information :::  
-Education: Senior at **[UTA](https://www.uta.edu/):**  
+Education: Senior at **[UTA](https://www.uta.edu/)** for Bachelors' Degree in Physics with a Minor in Mathematics  
 Employment: Department of Physics at the University of Texas at Arlington  
 Position: Undergraduate Research Assistant  
   
-<img src="./Images/Programs.Logo/LinkedIN.png" width="2%"> Linked in Account :    
-<img src="./Images/Other/QR.jpg" width="25%">  
+<img src="./Images/Programs.Logo/LinkedIN.png" width="2%"> Linked in QR Code  
+<img src="./Images/Other/QR.png" width="20%">  
   
 ### ::: Labor and Skills :::  
 
@@ -26,20 +26,15 @@ Position: Undergraduate Research Assistant
 - Mechanical Assembling  
 
 3. **Digital Program Skills**  
-<img src="./Images/Programs.Logo/KiCAD.png" width="5%"> KiCAD  
-<img src="/.Images/Programs.Logo/Fusion.png" width="5%"> Autodesk Fusion360  
+<img src="./Images/Programs.Logo/KiCAD.png" width="4%"> KiCAD ::: https://www.kicad.org/  
+<img src="./Images/Programs.Logo/Fusion.png" width="1%"> Autodesk Fusion360 ::: https://www.autodesk.com/  
 <img src="./Images/Programs.Logo/MS.png" width="2%">  Word, Excel, and Powerpoint  
   
-**Other Skills**  
-Organization  
+4. **Other Skills**  
+- Organization  
   
 ## A little more about me and my thoughts
-👋 Hello! I am currently studying for a **Bachelors' Degree in Physics with a Minor in Mathematics** Instruments in fields have always been an eye catcher to me, working in any field that allows me to create tools that can facilitate production, efficiency, or any tasks is something that I constantly think on. 
-- Is what I am doing the most efficient (?)  
-Likely not, feedback is something I value as I can never know if what I truly do is the best. Project direction helps, and if I am asked to attempt a different route experimentally; I will.  
-- Is what I create new?  
-I wish! A lot of what I craft is made with bits and pieces of what I have observed or it is a simple solution to whatever task I am trying to innovate on.
-
+xyz xyz
 
 ## Projects  
 <img src="./Images/Projects.Showcase/Channel.Tester.png" width="20%"> <img src="./Images/Projects.Showcase/Field.Cage.Demo.png" width="21.5%"> <img src="./Images/Projects.Showcase/Readout.Adapter.png" width="25%"> <img src="./Images/Projects.Showcase/ThGEM.png" width="25.5%">
