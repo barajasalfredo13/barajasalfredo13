@@ -6,9 +6,9 @@ Alfredo Barajas Enriquez
 **Position:** ::: Undergraduate Research Assistant  
 **Current Advisor:** ::: **[Jonathan Asaadi](https://www.jonathanasaadi.com/)**
   
-### ::: Labor Types and Skills :::  
+### Labor Types and Skills 
   
-**Key Skills**  
+:::  **Key Skills** ::: 
 - Active Problem Solving  
 - Attention to Detail  
 - Data Aquisition and Analysis  
@@ -18,12 +18,12 @@ Alfredo Barajas Enriquez
 - Mechanical Assembling
 - Ability to take   
 
-**Current Programs Used in Labor**  
+:::  **Current Programs Used in Labor**  :::  
 <img src="./Images/Programs.Logo/KiCAD.png" width="4%"> KiCAD ::: https://www.kicad.org/  
 <img src="./Images/Programs.Logo/Fusion.png" width="1%"> Autodesk Fusion360 ::: https://www.autodesk.com/  
 <img src="./Images/Programs.Logo/MS.png" width="2%">  Word, Excel, and Powerpoint  
   
-## Little more about me and my thoughts
+### A little about me...
 Why a Bachelors Degree in Physics (?)  
 Curiousity is what made me fall into this degree plan. Out of highschool I had intended on achieving a Math degree, which soon changed to Chemistry when I had taken Chem I and II as my science electives in community college. This then turned into taking O-Chem I & II, in which I learnt that the chemistry taught there is mostly carbon based. The knowledge of what the smallest building block surely could not just stop there; there must be something smaller. This is what made me decide on the degree.  
   
