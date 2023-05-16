@@ -30,7 +30,7 @@ Alfredo Barajas Enriquez
 4. **Other Skills**  
 - Organization  
   
-## A little more about me and my thoughts
+## Little more about me and my thoughts
 xyz xyz
 
 ## Projects  
