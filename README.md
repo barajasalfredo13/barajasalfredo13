@@ -9,7 +9,7 @@ Education: Senior at **[UTA](https://www.uta.edu/):**
 Employment: Department of Physics at the University of Texas at Arlington  
 Position: Undergraduate Research Assistant  
   
-<img src="./Images/Programs.Logo/LinkedIN.png" width="5%"> Linked in Account :    
+<img src="./Images/Programs.Logo/LinkedIN.png" width="2%"> Linked in Account :    
 <img src="./Images/Other/LinkedIn.QR.png" width="25%">  
   
 ### ::: Labor and Skills :::  
@@ -41,12 +41,5 @@ Likely not, feedback is something I value as I can never know if what I truly do
 I wish! A lot of what I craft is made with bits and pieces of what I have observed or it is a simple solution to whatever task I am trying to innovate on.
 
 
-## Projects
-----------  
-  
-#### Project Showcase  
-<img src="./Images/Projects.Showcase/Channel.Tester.png" width="20%">  
-<img src="./Images/Projects.Showcase/Field.Cage.Demo.png" width="20%">  
-<img src="./Images/Projects.Showcase/Readout.Adapter" width="20%">  
-<img src="./Images/Projects.Showcase/SAQ.Model" width="20%">  
-<img src="./Images/Projects.Showcase/ThGEM" width="20%">  
+## Projects  
+<img src="./Images/Projects.Showcase/Channel.Tester.png" width="20%"> <img src="./Images/Projects.Showcase/Field.Cage.Demo.png" width="21.5%"> <img src="./Images/Projects.Showcase/Readout.Adapter.png" width="25%"> <img src="./Images/Projects.Showcase/ThGEM.png" width="25.5%">
