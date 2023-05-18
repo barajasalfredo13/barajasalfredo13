@@ -15,8 +15,7 @@ Alfredo Barajas Enriquez
 - Innovative and Critical Thinking   
 - Organization  
 - Soldering  
-- Mechanical Assembling
-- Ability to take   
+- Mechanical Assembling  
 
 :::  **Current Programs Used in Labor**  :::  
 <img src="./Images/Programs.Logo/KiCAD.png" width="4%"> KiCAD ::: https://www.kicad.org/  
