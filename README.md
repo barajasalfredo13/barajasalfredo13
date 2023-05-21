@@ -35,12 +35,12 @@ The projects showcased are scattered parts of a larger experiment. They are mark
 
 ----------  
 ### More about me...
-Why a Bachelors Degree in Physics (?)  
+**Why a Bachelors Degree in Physics (?)**  
 Curiousity is what made me fall into this degree plan. Out of highschool I had intended on achieving a Math degree, which soon changed to Chemistry when I had taken Chem I and II as my science electives in community college. This then turned into taking O-Chem I & II, in which I learnt that the chemistry taught there is mostly carbon based. The knowledge of what the smallest building block surely could not just stop there; there must be something smaller. This is what made me decide on the degree.  
   
-What do you want to do with a degree in Physics (?)  
+**What do you want to do with a degree in Physics (?)**  
 Explore experimentally and theoretically new detection techniques or manipulation of materials to do tasks that I would need to or want to do. This is not limited to the application type. I want to be able to find multiple ways of finding a solution using known or new physical phenomena. Particularly I am interested in instrumentation types and modularity. Things that I craft have to be both efficient and reusable for me to consider them a true success. Failing at doing so is a smaller success and a huge learning experience.  
   
-What do you do for fun?  
+**What do you do for fun?**  
 I love to explore methaphors, symbolisms, and hidden meanings through music. I think it is fascinating that wordplay can have many meanings.  
 I like to doodle. My art is not particularly hard to draw, but it's something that I have enjoyed doing. If I ever live in perpetual creation, I hope I can leave some hidden as a little easter egg.
