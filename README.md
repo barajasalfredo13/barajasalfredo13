@@ -29,7 +29,7 @@ Curiousity is what made me fall into this degree plan. Out of highschool I had i
 What do you want to do with a degree in Physics (?)  
 Explore experimentally and theoretically new detection techniques or manipulation of materials to do tasks that I would need to or want to do. This is not limited to the application type. I want to be able to find multiple ways of finding a solution using known or new physical phenomena. Particularly I am interested in instrumentation types and modularity. Things that I craft have to be both efficient and reusable for me to consider them a true success. Failing at doing so is a smaller success and a huge learning experience.  
   
-<img src="./Images/Programs.Logo/LinkedIN.png" width="2%"> ![LinkedIn]("[https://www.linkedin.com/in/alfredo-barajas-134430106?") QR Code  
+<img src="./Images/Programs.Logo/LinkedIN.png" width="2%"> **[LinkedIn](https://www.linkedin.com/in/alfredo-barajas-134430106?)** QR Code  
 <img src="./Images/Other/QR.png" width="20%">  
 
 ## Photo Showcase of Projects  
