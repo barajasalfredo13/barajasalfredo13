@@ -1,5 +1,3 @@
-Alfredo Barajas Enriquez
-----------
 ### ::: Basic Information :::  
 **Education:** ::: Senior at **[UTA](https://www.uta.edu/)** for Bachelors' Degree in Physics with a Minor in Mathematics  
 **Employment:** ::: Department of Physics at the University of Texas at Arlington  
