@@ -28,6 +28,10 @@ Alfredo Barajas Enriquez
 ## Photo Showcase of Projects  
 <img src="./Images/Projects.Showcase/Channel.Tester.png" width="20%"> <img src="./Images/Projects.Showcase/Field.Cage.Demo.png" width="21.5%"> <img src="./Images/Projects.Showcase/Readout.Adapter.png" width="25%"> <img src="./Images/Projects.Showcase/ThGEM.png" width="25.5%">  
   
+The projects showcased are scattered parts of a larger experiment. They are markers of what I have learnt.  
+[ThGEM](https://github.com/barajasalfredo13/ThGEM)  
+[Comb.SAQ-Pix](https://github.com/barajasalfredo13/Comb.Mod.SAQ.Pix)  
+  
 
 ----------  
 ### More about me...
@@ -39,4 +43,4 @@ Explore experimentally and theoretically new detection techniques or manipulatio
   
 What do you do for fun?  
 I love to explore methaphors, symbolisms, and hidden meanings through music. I think it is fascinating that wordplay can have many meanings.  
-I like to doodle. My art is not particularly hard to draw, but it's something that I have enjoyed doing. If I ever live in perpetual creation, I hope I can leave some hidden as an easter egg in some of my designs.  
+I like to doodle. My art is not particularly hard to draw, but it's something that I have enjoyed doing. If I ever live in perpetual creation, I hope I can leave some hidden as a little easter egg.
