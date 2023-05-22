@@ -11,7 +11,8 @@
 - Attention to Detail  
 - Data Aquisition and Analysis  
 - Innovative and Critical Thinking   
-- Organization  
+- Organization   
+- Opportunity Assesment
 - Soldering  
 - Mechanical Assembling  
 
