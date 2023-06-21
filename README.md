@@ -22,7 +22,7 @@
 <img src="./Images/Programs.Logo/MS.png" width="2%">  Word, Excel, and Powerpoint  
 
 :::  **Current Programs Being Learnt**  ::
-<img src=".Images/Programs.Logo/COMSOL.png" width="5%"> COMSOL ::: https://www.comsol.com/  
+<img src="./Images/Programs.Logo/COMSOL.png" width="5%"> COMSOL ::: https://www.comsol.com/  
   
 <img src="./Images/Projects.Showcase/ThGEM.Field.png" width="20%"> <img src="./Images/Projects.Showcase/Particles.gif" width="20%"> 
 
