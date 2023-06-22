@@ -17,8 +17,8 @@
 - Mechanical Assembling  
 
 :::  **Current Programs Used in Labor**  :::  
-<img src="./Images/Programs.Logo/KiCAD.png" width="4%"> KiCAD ::: https://www.kicad.org/  
-<img src="./Images/Programs.Logo/Fusion.png" width="1%"> Autodesk Fusion360 ::: https://www.autodesk.com/  
+<img src="./Images/Programs.Logo/KiCAD.png" width="4.2%"> ::: https://www.kicad.org/  
+<img src="./Images/Programs.Logo/Fusion.png" width="1.3%"> Autodesk Fusion360 ::: https://www.autodesk.com/  
 <img src="./Images/Programs.Logo/MS.png" width="2%">  Word, Excel, and Powerpoint  
 
 :::  **Current Programs Being Learnt**  ::  
