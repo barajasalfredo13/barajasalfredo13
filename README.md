@@ -22,9 +22,9 @@
 <img src="./Images/Programs.Logo/MS.png" width="2%">  Word, Excel, and Powerpoint  
 
 :::  **Current Programs Being Learnt**  ::  
-<img src="./Images/Programs.Logo/COMSOL.png" width="5%"> COMSOL ::: https://www.comsol.com/  
+<img src="./Images/Programs.Logo/COMSOL.png" width="13%"> ::: https://www.comsol.com/  
   
-<img src="./Images/Projects.Showcase/ThGEM.Field.png" width="40%"> <img src="./Images/Projects.Showcase/Particles.gif" width="45%"> 
+<img src="./Images/Projects.Showcase/ThGEM.Field.png" width="30%"> <img src="./Images/Projects.Showcase/Particles.gif" width="30%"> 
 
 
 <img src="./Images/Programs.Logo/LinkedIN.png" width="2%"> **[LinkedIn](https://www.linkedin.com/in/alfredo-barajas-134430106?)** QR Code  
