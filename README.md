@@ -31,7 +31,7 @@
 <img src="./Images/Other/QR.png" width="20%">  
 
 ## Photo Showcase of Projects  
-<img src="./Images/Projects.Showcase/Channel.Tester.png" width="20%"> <img src="./Images/Projects.Showcase/Field.Cage.Demo.png" width="21.5%"> <img src="./Images/Projects.Showcase/Readout.Adapter.png" width="25%"> <img src="./Images/Projects.Showcase/ThGEM.png" width="25.5%">  
+<img src="./Images/Projects.Showcase/Channel.Tester.png" width="20.4%"> <img src="./Images/Projects.Showcase/Field.Cage.Demo.png" width="21.5%"> <img src="./Images/Projects.Showcase/Readout.Adapter.png" width="26.1%"> <img src="./Images/Projects.Showcase/ThGEM.png" width="25.4%">  
   
 The projects showcased are scattered parts of a larger experiment. They are markers of what I have learnt.  
 [ThGEM](https://github.com/barajasalfredo13/ThGEM)  
