@@ -13,15 +13,18 @@
 - Innovative and Critical Thinking   
 - Organization   
 - Opportunity Assesment
-- Soldering  
+- Adaptive Learning  
+- Circuit Assemblance   
 - Mechanical Assembling  
+- CAD Modeling  
+
 
 :::  **Current Programs Used in Labor**  :::  
 <img src="./Images/Programs.Logo/KiCAD.png" width="4.2%"> ::: https://www.kicad.org/  
 <img src="./Images/Programs.Logo/Fusion.png" width="1.3%"> Autodesk Fusion360 ::: https://www.autodesk.com/  
 <img src="./Images/Programs.Logo/MS.png" width="2%">  Word, Excel, and Powerpoint  
 
-:::  **Current Programs Being Learnt**  ::  
+:::  **Current Programs Being Learnt**  :::  
 <img src="./Images/Programs.Logo/COMSOL.png" width="13%"> ::: https://www.comsol.com/  
   
 <img src="./Images/Projects.Showcase/ThGEM.Field.png" width="30%"> <img src="./Images/Projects.Showcase/Particles.gif" width="39%"> 
