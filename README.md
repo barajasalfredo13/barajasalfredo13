@@ -29,10 +29,6 @@
   
 <img src="./Images/Projects.Showcase/ThGEM.Field.png" width="30%"> <img src="./Images/Projects.Showcase/Particles.gif" width="39%"> 
 
-
-<img src="./Images/Programs.Logo/LinkedIN.png" width="2%"> **[LinkedIn](https://www.linkedin.com/in/alfredo-barajas-134430106?)** QR Code  
-<img src="./Images/Other/QR.png" width="20%">  
-
 ## Photo Showcase of Projects  
 <img src="./Images/Projects.Showcase/Channel.Tester.png" width="20.4%"> <img src="./Images/Projects.Showcase/Field.Cage.Demo.png" width="21.5%"> <img src="./Images/Projects.Showcase/Readout.Adapter.png" width="26.1%"> <img src="./Images/Projects.Showcase/ThGEM.png" width="25.4%">  
   
