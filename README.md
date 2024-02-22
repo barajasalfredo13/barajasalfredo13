@@ -23,7 +23,7 @@
 <img src="./Images/Programs.Logo/KiCAD.png" width="4.2%"> ::: https://www.kicad.org/  
 <img src="./Images/Programs.Logo/Fusion.png" width="1.3%"> Autodesk Fusion360 ::: https://www.autodesk.com/  
 <img src="./Images/Programs.Logo/COMSOL.png" width="13%"> ::: https://www.comsol.com/  
-<img src="./Images/Programs.Logo/MS.png" width="2%">  Word, Excel, and Powerpoint  
+<img src="./Images/Programs.Logo/MS.png" width="2%">  Office 365   
   
 <img src="./Images/Projects.Showcase/ThGEM.Field.png" width="30%"> <img src="./Images/Projects.Showcase/Particles.gif" width="39%"> 
 
