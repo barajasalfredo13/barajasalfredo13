@@ -1,7 +1,7 @@
 ### ::: Basic Information :::  
-**Education:** ::: Senior at **[UTA](https://www.uta.edu/)** for Bachelors' Degree in Physics with a Minor in Mathematics  
+**Education:** ::: Senior at **[UTA](https://www.uta.edu/)** for Bachelors' Degree in Physics with a Minor in Mathematics (Dec 2024)  
 **Employment:** ::: Department of Physics at the University of Texas at Arlington  
-**Position:** ::: Undergraduate Research Assistant  
+**Position:** ::: Undergraduate Research Assistant (July 2020)  
 **Current Advisor:** ::: **[Jonathan Asaadi](https://www.jonathanasaadi.com/)**
   
 ### Labor Types and Skills 
