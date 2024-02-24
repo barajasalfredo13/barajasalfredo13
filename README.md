@@ -1,7 +1,8 @@
 ::: **Education :** Senior at **[UTA](https://www.uta.edu/)** for Bachelors' Degree in Physics with a Minor in Mathematics (Dec 2024)  
 ::: **Employment :** Department of Physics at the University of Texas at Arlington  
 ::: **Position :** Undergraduate Research Assistant (July 2020)  
-::: **Current Advisor :** **[Jonathan Asaadi](https://www.jonathanasaadi.com/)**
+::: **Current Advisor :** **[Jonathan Asaadi](https://www.jonathanasaadi.com/)**  
+::: **Languages :** English (Primary-Fluent) : Spanish (Secondary-Fluent)
   
 :::  **Key Skills** ::: 
 - Active Problem Solving  
@@ -28,4 +29,4 @@
 <img src="./Images/Projects.Showcase/Channel.Tester.png" width="20.4%"> <img src="./Images/Projects.Showcase/Field.Cage.Demo.png" width="21.5%"> <img src="./Images/Projects.Showcase/Readout.Adapter.png" width="26.1%"> <img src="./Images/Projects.Showcase/ThGEM.png" width="25.4%">  
   
 ### Projects  
-The pinned objects in this page are my projects  
+The pinned objects on this page are my projects  
