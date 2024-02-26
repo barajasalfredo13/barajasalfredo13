@@ -16,7 +16,7 @@
 - Mechanical Assembling  
 - CAD Modeling  
 
-::: Research Contribution :::
+::: Research Contributions :::  
 https://arxiv.org/abs/2402.05734
 
 :::  **Current Programs Used in Labor**  :::  
