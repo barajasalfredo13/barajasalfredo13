@@ -16,6 +16,8 @@
 - Mechanical Assembling  
 - CAD Modeling  
 
+::: Research Contribution :::
+https://arxiv.org/abs/2402.05734
 
 :::  **Current Programs Used in Labor**  :::  
 <img src="./Images/Programs.Logo/KiCAD.png" width="4.2%"> ::: https://www.kicad.org/  
